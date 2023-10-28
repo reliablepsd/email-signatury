@@ -1,0 +1,39 @@
+
+
+@import 'settings';
+@import 'foundation-emails';
+// @import 'template/template';
+
+@media screen {}
+
+
+body {
+
+	hr {
+		margin-top: 20px;
+		margin-bottom: 20px;
+		Margin-top: 20px;
+		Margin-bottom: 20px;
+	}
+
+	h2 {
+		margin-bottom: 20px;
+		Margin-bottom: 20px;
+	}
+	p {
+		a {
+			display: inline;
+		}
+	}
+
+	a,
+	img {
+		display: inline-block;
+	}
+}
+
+.signature {
+	> tbody > tr > td {
+		padding: 40px 20px;
+	}
+}
